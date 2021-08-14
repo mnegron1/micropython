@@ -1,7 +1,7 @@
 site_name: 'MicroPython'
 nav:
   - CoderDojo Mentor Resources: https://coderdojotc.github.io/CoderDojoTC/
-  - Micropython Home: index.md
+  - MicroPython Home: index.md
   - Getting Started:
     - Introduction: 01-intro.md
     - Microcontrollers: 01a-microcontrollers.md
@@ -67,9 +67,9 @@ nav:
   - Colophon: 30-colophon.md
   - Render Test: mermaid-test.md
 
-site_description: 'Resources for teaching Micropython to CoderDojo Twin Cities students.'
+site_description: 'Resources for teaching MicroPython to CoderDojo Twin Cities students.'
 site_author: 'Dan McCreary'
-repo_name: 'micropython repo'
+repo_name: 'MicroPython Git Repo'
 repo_url: 'https://github.com/CoderDojoTC/micropython'
 
 # CoderDojo Standards from here down
@@ -84,7 +84,7 @@ theme:
   include_sidebar: true
 plugins:
   - search
-  - mermaid2
+  # - mermaid2
 markdown_extensions:
   - admonition
   - footnotes
