@@ -38,9 +38,12 @@ All our robots are built around a RP2040 and a motor driver with a few low-cost 
 
 ## List of Labs
 
+**All Labs require the [MicroPython Runtime Library IDE](https://www.coderdojotc.org/micropython/kits/maker-pi-rp2040/01-getting-started/) to be installed**
+
 ### Part 1: No Accessories Required Labs
 
 These labs don't need anything except the Maker Pi RP2040 board.
+
 
 1. [**Blue LED Lab**](02-blue-led-lab.md) - make the blue GPIO status LEDs show cool patterns
 2. [**NeoPixel Lab**](03-neopixel-lab.md) - make the two NeoPixel each display many colors
